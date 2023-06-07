@@ -96,7 +96,7 @@ public class HelloApplication implements ActionListener{
         frame.add(textfield);
         frame.setVisible(true);
     }
-
+//
     public static void main(String[] args) {
 
         HelloApplication calc = new HelloApplication();
